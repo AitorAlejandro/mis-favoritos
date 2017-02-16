@@ -17,15 +17,9 @@
             <div class="col col-12">
                 <h1 class="title text-center site-title">Mis Favoritos</h1>
                 <nav class="tabs" data-component="tabs">
-                    <ul>
-                        <li>
-                            <a href="#blogs">Blogs</a>
-                        </li>
-                        <li>
-                            <a href="">Herramientas</a>
-                        </li>
-                        <li>
-                            <a href="">Frameworks fronend</a>
+                    <ul id="site-navigation">
+                        <li v-for="item in linkList">
+                            <a v-bind:href="item.href">{{item.linkText}}</a>
                         </li>
                     </ul>
                 </nav>
@@ -35,48 +29,28 @@
     <main>
         <section id="blogs" class="row gutters" tabindex="0">
             <div class="col col-12">
-                <h2>Blogs</h2>
+                <h2>{{sectionTitle}}</h2>
             </div>
-            <article class="col col-4">
-                <h3><a href="https://css-tricks.com/" target="_blank">css-tricks</a></h3>
-                <p>Indudablemente una de las webs número uno de consulta para un frontend. Artículos y tutoriales de calidad y un buen número de snippets.</p>
+
+            <article class="col col-4" v-for="blog in aryBlogs">
+                <h3><a v-bind:href="blog.url" target="_blank">{{blog.linkText}}</a></h3>
+                <p v-html="blog.text"></p>
             </article>
-            <article class="col col-4">
-                <h3><a href="https://www.smashingmagazine.com/" target="_blank">Smashing Magazine</a></h3>
-                <p>Todo un referente en el mundo de la web. Código, diseño, mobile, UX ... etc. Publican libros con colecciones de sus artículos más interesantes.</p>
-            </article>
-            <article class="col col-4">
-                <h3><a href="https://www.sitepoint.com/" target="_blank">Site Point</a></h3>
-                <p>Artículos meticulosos de gran calidad, podcast, libros y cursos (a veces gratis). También imprescindible.</p>
-            </article>
-            <article class="col col-4">
-                <h3><a href="https://davidwalsh.name/" target="_blank">David Walsh Blog</a></h3>
-                <p>Blog del gurú JavaScript David Walsh. Conviene seguirle y leer sus interesantes artículos. No solo es JS, también incluye otras tecnologías web.</p>
-            </article>
-            <article class="col col-4">
-                <h3><a href="http://alistapart.com/articles" target="_blank">A List Apart</a></h3>
-                <p>Artículos de todo lo relacionado con la web. Son artículos de una extraordinaria calidad que algunos son un referente.</p>
-            </article>
-            <article class="col col-4">
-                <h3><a href="https://scotch.io/" target="_blank">Scotch.io</a></h3>
-                <p>Tutoriales excelentes sobre el mundo frontend y backend javascript. Disponen de <a href="https://school.scotch.io/courses" target="_blank">cursos</a> free y premium. ¡¡No perdérselo!!</p>
-            </article>
-            <article class="col col-4">
-                <h3><a href="https://webmasters.googleblog.com/" target="_blank">Google Webmaster Blog</a></h3>
-                <p>No puede faltar el blog oficial de Google para webmasters.</p>
-            </article>
+
         </section>
     </main>
 </div>
 
-<footer class="row main-footer">
+<footer id="footer" class="row main-footer">
     <div class="col col-12 text-center">
-        <p class="small">Aitor Alejandro &copy; 2017 Reservados todos los derechos</p>
+        <p class="small" v-html="copyright"></p>
     </div>
 </footer>
 
 <!-- Kube JS + jQuery are used for some functionality, but are not required for the basic setup -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="js/kube.min.js"></script>
+<script src="js/vue.min.js"></script>
+<script src="js/app.js"></script>
 </body>
 </html>
