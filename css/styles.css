@@ -12,10 +12,6 @@ h1.title, h2.title, h3.title, h4.title, h5.title, h6.title {
     font-family: "Special Elite";
 }
 
-.button, body, button {
-    font-family: "Open Sans Condensed";
-}
-
 h1.site-title {
     background: url(../img/hero.jpg) repeat-x 50% -46px;
     color: #fff;
