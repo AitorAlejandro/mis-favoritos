@@ -53,7 +53,12 @@ var objBlogs =  [
         url: "http://www.cssportal.com/",
         linkText: "CSS Portal",
         text: "Snippets, generadores y herramientas para desarrollar en CSS."
-    }     
+    },
+    {
+        url: "http://www.elmaquetadorweb.com/",
+        linkText: "El maquetador web",
+        text: "Excelente blog mantenido por Javi Luna y Pedro Marín donde nos cuentan muchos trucos en esto del CSS. Me encanta el nombre de maquetador, término en desuso hoy en día.  ;D"
+    }  
             
 ];
 
