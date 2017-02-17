@@ -58,6 +58,11 @@ var objBlogs =  [
         url: "http://www.elmaquetadorweb.com/",
         linkText: "El maquetador web",
         text: "Excelente blog mantenido por Javi Luna y Pedro Marín donde nos cuentan muchos trucos en esto del CSS. Me encanta el nombre de maquetador, término en desuso hoy en día.  ;D"
+    },
+    {
+        url: "https://toddmotto.com/",
+        linkText: "Todd Motto",
+        text: "Artículos y tutoriales sobre JavaScript, Angular y Typescript. Dispone de muy buenos cursos en premium."
     }  
             
 ];
