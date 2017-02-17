@@ -85,6 +85,6 @@ var blogs = new Vue({
 var footer = new Vue({
   el: '#footer',
   data: {
-    copyright: 'Aitor Alejandro &copy; ' + new Date().getFullYear() + ' Reservados todos los derechos.'
+    copyright: 'Copyright &copy; ' + new Date().getFullYear() + ' Aitor Alejandro Herrera. MIT License'
   }
 });
