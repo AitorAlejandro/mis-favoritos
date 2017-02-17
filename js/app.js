@@ -48,7 +48,13 @@ var objBlogs =  [
         url: "http://www.developerdrive.com/",
         linkText: "Developer Drive",
         text: "Artículos sobre todo tipo de tecnología de desarrollo web."
-    }
+    },
+    {
+        url: "http://www.cssportal.com/",
+        linkText: "CSS Portal",
+        text: "Snippets, generadores y herramientas para desarrollar en CSS."
+    }     
+            
 ];
 
 
