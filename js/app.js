@@ -68,8 +68,12 @@ var objBlogs =  [
         url: "https://toddmotto.com/",
         linkText: "Todd Motto",
         text: "Artículos y tutoriales sobre JavaScript, Angular y Typescript. Dispone de muy buenos cursos en premium."
-    }  
-            
+    },
+    {
+        url: "http://valhead.com/blog/",
+        linkText: "Val Head Blog",
+        text: "Artículos y tutoriales de una especialista en animaciones CSS web."
+    }       
 ];
 
 
