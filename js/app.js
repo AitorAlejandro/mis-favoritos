@@ -73,7 +73,12 @@ var objBlogs =  [
         url: "http://valhead.com/blog/",
         linkText: "Val Head Blog",
         text: "Artículos y tutoriales de una especialista en animaciones CSS web."
-    }       
+    },
+    {
+        url: "https://codyhouse.co/",
+        linkText: "Cody House",
+        text: "Colecciones gratuitas de snippets de HTML, CSS y JavaScript. También disponen de cursos premium."
+    }        
 ];
 
 
