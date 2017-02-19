@@ -78,7 +78,12 @@ var objBlogs =  [
         url: "https://codyhouse.co/",
         linkText: "Cody House",
         text: "Colecciones gratuitas de snippets de HTML, CSS y JavaScript. También disponen de cursos premium."
-    }        
+    },
+    {
+        url: "http://www.kylejlarson.com/blog/ ",
+        linkText: "kyle J. Larson",
+        text: "Buenos consejos para el diseño web."
+    }       
 ];
 
 
