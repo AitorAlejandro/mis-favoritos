@@ -93,7 +93,12 @@ var objBlogs =  [
         url: "http://mrbool.com/",
         linkText: "Mr. Bool",
         text: "Tutoriales y cursos. ES6, Node+NPM, Ionic, Angular, NoSQL."
-    }   
+    },
+    {
+        url: "http://www.marketingenredes.com/",
+        linkText: "Marketing en redes",
+        text: "Sin unos buenos consejos como estos de maketing digital, no somos nadie."
+    }    
 ];
 
 
