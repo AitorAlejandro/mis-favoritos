@@ -97,7 +97,7 @@ var objBlogs =  [
     {
         url: "http://www.marketingenredes.com/",
         linkText: "Marketing en redes",
-        text: "Sin unos buenos consejos como estos de maketing digital, no somos nadie."
+        text: "Sin unos buenos consejos como estos de marketing digital, no somos nadie."
     }    
 ];
 
