@@ -40,6 +40,11 @@ var objBlogs =  [
         text: "No puede faltar el blog oficial de Google para webmasters."
     },
     {
+        url: "http://lea.verou.me/",
+        linkText: "Lea Verou",
+        text: "La gran Lea Verou. Proyectos, charlas, artículos. Una eminencia en el CSS."
+    },
+    {
         url: "http://wesbos.com/blog/",
         linkText: "Web Bos",
         text: "Artículos, videos y tutoriales"
