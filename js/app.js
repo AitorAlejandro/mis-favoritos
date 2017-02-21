@@ -105,6 +105,11 @@ var objHerramientas =  [
         url: "https://github.com/",
         linkText: "github",
         text: "Web que permite tener subidos tus repositorios git y así poder trabajar de forma colaborativa. Tiene versión Premiun con muchas mejoras. Dispone de las github-pages que te permiten desplegar webs estáticas incluso en la versión gratuita."
+    },
+    {
+        url: "https://www.gitignore.io/",
+        linkText: "gitignore",
+        text: "Tras git init suele ser habitual crear un gitignore para configurar qué se debe ignorar en el historial. Esta aplicación nos ayudará mucho en esa tarea. Hay que indicarle qué tecnologías estamos usando y gitignore hace el resto."
     }
 ];
 
