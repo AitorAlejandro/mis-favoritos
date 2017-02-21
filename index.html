@@ -44,7 +44,7 @@
             </div>
 
             <article class="col col-4" v-for="herramienta in aryHerramientas">
-                <h3><a v-bind:href="blog.url" target="_blank">{{herramienta.linkText}}</a></h3>
+                <h3><a v-bind:href="herramienta.url" target="_blank">{{herramienta.linkText}}</a></h3>
                 <p v-html="herramienta.text"></p>
             </article>
         </section>
