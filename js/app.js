@@ -1,7 +1,6 @@
 var objLinkList = [
             { href: "#blogs", linkText: "Blogs" },
-            { href: "#herramientas", linkText: "Herramientas" },
-            { href: "#frameworks", linkText: "Frameworks" }
+            { href: "#herramientas", linkText: "Herramientas" }
         ];
 var objBlogs =  [
     {
@@ -101,7 +100,13 @@ var objBlogs =  [
     }    
 ];
 
-
+var objHerramientas =  [
+    {
+        url: "https://github.com/",
+        linkText: "github",
+        text: "Web que permite tener subidos tus repositorios git y así poder trabajar de forma colaborativa. Tiene versión Premiun con muchas mejoras. Dispone de las github-pages que te permiten desplegar webs estáticas incluso en la versión gratuita."
+    }
+];
 
 var siteNavigation = new Vue({
     el: "#site-navigation",
@@ -114,6 +119,13 @@ var blogs = new Vue({
     data: {
         sectionTitle: "Blogs",
         aryBlogs: objBlogs
+    }
+});
+var herramientas = new Vue({
+    el: '#herramientas',
+    data: {
+        sectionTitle: "Herramientas",
+        aryHerramientas: objHerramientas
     }
 });
 var footer = new Vue({
