@@ -36,7 +36,17 @@
                 <h3><a v-bind:href="blog.url" target="_blank">{{blog.linkText}}</a></h3>
                 <p v-html="blog.text"></p>
             </article>
+        </section>
+        
+        <section id="herramientas" class="row gutters" tabindex="0">
+            <div class="col col-12">
+                <h2>{{sectionTitle}}</h2>
+            </div>
 
+            <article class="col col-4" v-for="herramienta in aryHerramientas">
+                <h3><a v-bind:href="blog.url" target="_blank">{{herramienta.linkText}}</a></h3>
+                <p v-html="herramienta.text"></p>
+            </article>
         </section>
     </main>
 </div>
