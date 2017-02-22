@@ -120,6 +120,11 @@ var objHerramientas =  [
         url: "http://www.regexr.com/",
         linkText: "Regexr",
         text: "Nos permite crear y probar en tiempo real expresiones regulares. Muy útil cuando ya estamos desesperados de buscar algo en stackoverflow y no damos con ello."
+    },
+    {
+        url: "http://pxtoem.com/",
+        linkText: "pxtoem",
+        text: "Conversor de pixel a em y de em a pixel. Muy útil cuando recibimos diseños gráficos hechos en pixeles."
     }
 ];
 
