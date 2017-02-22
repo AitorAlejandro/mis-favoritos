@@ -110,6 +110,11 @@ var objHerramientas =  [
         url: "https://www.gitignore.io/",
         linkText: "gitignore",
         text: "Tras git init suele ser habitual crear un gitignore para configurar qué se debe ignorar en el historial. Esta aplicación nos ayudará mucho en esa tarea. Hay que indicarle qué tecnologías estamos usando y gitignore hace el resto."
+    },
+    {
+        url: "http://web-dev.tools/",
+        linkText: "Web Dev Tools",
+        text: "Tres herramientas que te permiten generar tu propio framework CSS. Son, como si se tratase de los 3 mosqueteros, Gridifier, Typographier y Modulifier. Ideales para proyectos donde quieras ir con el menor peso posible."
     }
 ];
 
