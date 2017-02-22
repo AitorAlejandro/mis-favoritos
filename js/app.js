@@ -125,6 +125,11 @@ var objHerramientas =  [
         url: "http://pxtoem.com/",
         linkText: "pxtoem",
         text: "Conversor de pixel a em y de em a pixel. Muy útil cuando recibimos diseños gráficos hechos en pixeles."
+    },
+    {
+        url: "http://currentmillis.com/",
+        linkText: "currentmillis",
+        text: "¿Problemas con UTC time, local time, Epoch, Unix timestamp? Esta web te ayudará con ello."
     }
 ];
 
