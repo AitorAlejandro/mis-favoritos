@@ -130,6 +130,11 @@ var objHerramientas =  [
         url: "http://currentmillis.com/",
         linkText: "currentmillis",
         text: "¿Problemas con UTC time, local time, Epoch, Unix timestamp? Esta web te ayudará con ello."
+    },
+    {
+        url: "http://bradfrost.github.io/this-is-responsive/patterns.html",
+        linkText: "Plantillas responsive",
+        text: "Sirven como boilerplates de una página, proyecto o landing page. No hay redescubrir la rueda todos los días."
     }
 ];
 
