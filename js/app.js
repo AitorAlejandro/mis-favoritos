@@ -134,7 +134,12 @@ var objHerramientas =  [
     {
         url: "http://bradfrost.github.io/this-is-responsive/patterns.html",
         linkText: "Plantillas responsive",
-        text: "Sirven como boilerplates de una página, proyecto o landing page. No hay redescubrir la rueda todos los días."
+        text: "Sirven como boilerplates de una página, proyecto o landing page. No hay que redescubrir la rueda todos los días."
+    },
+    {
+        url: "https://www.w3schools.com/colors/colors_converter.asp",
+        linkText: "Convertidor códigos color",
+        text: "Convierte todo tipo de códigos: RGB, Hex, HSL, CMYK y por nombre."
     }
 ];
 
