@@ -164,6 +164,9 @@ var blogs = new Vue({
     data: {
         sectionTitle: "Blogs",
         aryBlogs: objBlogs
+    },
+    mounted: function () {
+       console.log("blogs is now rendered");
     }
 });
 var herramientas = new Vue({
@@ -171,6 +174,9 @@ var herramientas = new Vue({
     data: {
         sectionTitle: "Herramientas",
         aryHerramientas: objHerramientas
+    },
+    mounted: function () {
+       console.log("herramientas is now rendered");
     }
 });
 var footer = new Vue({
