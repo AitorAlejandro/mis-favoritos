@@ -140,6 +140,11 @@ var objHerramientas =  [
         url: "https://www.w3schools.com/colors/colors_converter.asp",
         linkText: "Convertidor códigos color",
         text: "Convierte todo tipo de códigos: RGB, Hex, HSL, CMYK y por nombre."
+    },
+    {
+        url: "http://www.colorzilla.com/gradient-editor/",
+        linkText: "ColorZilla Gradient Generator",
+        text: "Herramienta para generar gradientes CSS. Se incluye soporte para IE9."
     }
 ];
 
