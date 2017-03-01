@@ -150,6 +150,11 @@ var objHerramientas =  [
         url: "http://jeremyckahn.github.io/stylie/",
         linkText: "Stylie",
         text: "Una forma de ajustar tus animaciones CSS de forma visual sencilla."
+    },
+    {
+        url: "http://www.tablesgenerator.com/",
+        linkText: "Table generator",
+        text: "Generador de tablas LaTex, HTML, Text tables, Markdown tables."
     }
 ];
 
