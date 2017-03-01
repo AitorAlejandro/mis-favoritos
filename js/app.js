@@ -145,6 +145,11 @@ var objHerramientas =  [
         url: "http://www.colorzilla.com/gradient-editor/",
         linkText: "ColorZilla Gradient Generator",
         text: "Herramienta para generar gradientes CSS. Se incluye soporte para IE9."
+    },
+    {
+        url: "http://jeremyckahn.github.io/stylie/",
+        linkText: "Stylie",
+        text: "Una forma de ajustar tus animaciones CSS de forma visual sencilla."
     }
 ];
 
