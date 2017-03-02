@@ -155,6 +155,11 @@ var objHerramientas =  [
         url: "http://www.tablesgenerator.com/",
         linkText: "Table generator",
         text: "Generador de tablas LaTex, HTML, Text tables, Markdown tables."
+    },
+    {
+        url: "http://www.cssarrowplease.com/",
+        linkText: "CSS arrow please",
+        text: "Puedes configurar paneles con flecha, variando el tamaño y la posición de esta. Te da el código CSS para que llevártelo."
     }
 ];
 
