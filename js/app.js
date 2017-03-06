@@ -165,6 +165,11 @@ var objHerramientas =  [
         url: "https://pixlr.com/",
         linkText: "Pixlr",
         text: "Una versión light y free de Photoshop online."
+    },
+    {
+        url: "https://icomoon.io/",
+        linkText: "Icomoon",
+        text: "De las mejores herramientas para generar glifos para tu proyecto. Es modo freemium. Para cuando necesites algo más personalizado de <a href=\"http://fontawesome.io/\" target=\"_blank\">Awesomefont</a>."
     }
 ];
 
