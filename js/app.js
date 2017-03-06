@@ -170,6 +170,11 @@ var objHerramientas =  [
         url: "https://icomoon.io/",
         linkText: "Icomoon",
         text: "De las mejores herramientas para generar glifos para tu proyecto. Es modo freemium. Para cuando necesites algo más personalizado de <a href=\"http://fontawesome.io/\" target=\"_blank\">Awesomefont</a>."
+    },
+    {
+        url: "http://lorempixel.com/",
+        linkText: "Lorempixel",
+        text: "Mientras recibimos las imágenes definitivas y estamos realizando ya la demo en paralelo, esta herramienta nos coloca una imagen al azar cada vez que la llamamos. Se pueden ajustar distintos parámetros como el tamaño y el tema. Creo que el nombre de lorempixel es bastante descriptivo ;)"
     }
 ];
 
