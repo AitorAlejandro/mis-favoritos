@@ -175,11 +175,16 @@ var objHerramientas =  [
         url: "http://lorempixel.com/",
         linkText: "Lorempixel",
         text: "Mientras recibimos las imágenes definitivas y estamos realizando ya la demo en paralelo, esta herramienta nos coloca una imagen al azar cada vez que la llamamos. Se pueden ajustar distintos parámetros como el tamaño y el tema. Creo que el nombre de lorempixel es bastante descriptivo ;)"
-    }
+    },
     {
         url: "http://www.patternify.com/",
         linkText: "Patternify",
         text: "Generador para patrones de  CSS, ideal para lo que se conoce como grecas. Nos da la imagen en código Base 64."
+    },
+    {
+        url: "https://coolors.co/",
+        linkText: "Coolors",
+        text: "Generador de paletas, 5 colores. Presenta un apartado para ver cómo se distingue tu paleta con distintas discapacidades."
     }
 ];
 
