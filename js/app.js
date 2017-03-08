@@ -185,6 +185,11 @@ var objHerramientas =  [
         url: "https://coolors.co/",
         linkText: "Coolors",
         text: "Generador de paletas, 5 colores. Presenta un apartado para ver cómo se distingue tu paleta con distintas discapacidades."
+    },
+    {
+        url: "https://gravit.io",
+        linkText: "Gravit.io",
+        text: "Herramienta de diseño gráfico. Una especie de Sketch online y gratuito."
     }
 ];
 
