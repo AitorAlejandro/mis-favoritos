@@ -190,6 +190,11 @@ var objHerramientas =  [
         url: "https://gravit.io",
         linkText: "Gravit.io",
         text: "Herramienta de diseño gráfico. Una especie de Sketch online y gratuito."
+    },
+    {
+        url: "https://developers.google.com/speed/pagespeed",
+        linkText: "Google PageSpeed Insights",
+        text: "Herramienta de Google que nos proporciona un informe de mejora rendimiento de nuestra web. Hay que introducir la URL pública y PageSpeed se encarga del resto."
     }
 ];
 
