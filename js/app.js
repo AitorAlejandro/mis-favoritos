@@ -195,6 +195,11 @@ var objHerramientas =  [
         url: "https://developers.google.com/speed/pagespeed",
         linkText: "Google PageSpeed Insights",
         text: "Herramienta de Google que nos proporciona un informe de mejora rendimiento de nuestra web. Hay que introducir la URL pública y PageSpeed se encarga del resto."
+    },
+    {
+        url: "https://www.sendwithus.com/",
+        linkText: "Send with us",
+        text: "Te permite realizar envios de email para comprobar tus propios diseños en los distintos clientes web. Lo permite hacer de forma más rápida que <a href=\"https://mailchimp.com/" target=\"_blank\">mailchimp</a>, simplemente crea tu diseño y haz el envio."
     }
 ];
 
