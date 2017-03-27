@@ -200,6 +200,11 @@ var objHerramientas =  [
         url: "https://www.sendwithus.com/",
         linkText: "Send with us",
         text: "Te permite realizar envios de email para comprobar tus propios diseños en los distintos clientes web. Lo permite hacer de forma más rápida que <a href=\"https://mailchimp.com/\" target=\"_blank\">mailchimp</a>, simplemente crea tu diseño y haz el envio."
+    },
+    {
+        url: "https://www.diffnow.com/",
+        linkText: "Diffnow",
+        text: "Para esas comparaciones rápidas que a veces nos surgen. Lo más intesante es que permite hacer comparaciones copy&paste utilizando fragmentos de código."
     }
 ];
 
