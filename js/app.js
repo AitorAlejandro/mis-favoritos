@@ -205,6 +205,11 @@ var objHerramientas =  [
         url: "https://www.diffnow.com/",
         linkText: "Diffnow",
         text: "Para esas comparaciones rápidas que a veces nos surgen. Lo más intesante es que permite hacer comparaciones copy&paste utilizando fragmentos de código."
+    },
+    {
+        url: "http://makeappicon.com/",
+        linkText: "MakeAppIcon",
+        text: "Web que te genera a partir de una imagen toda la batería necesaria de iconos para incluir en una App Android e iOS."
     }
 ];
 
