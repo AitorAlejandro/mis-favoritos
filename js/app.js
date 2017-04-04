@@ -248,7 +248,7 @@ var herramientas = new Vue({
        console.log("herramientas is now rendered");
     }
 });
-var herramientas = new Vue({
+var recursos = new Vue({
     el: '#recursos',
     data: {
         sectionTitle: "Recursos",
