@@ -1,6 +1,6 @@
 var objLinkList = [
             { href: "#blogs", linkText: "Blogs" },
-            { href: "#herramientas", linkText: "Herramientas" }
+            { href: "#herramientas", linkText: "Herramientas" },
             { href: "#recursos", linkText: "Recursos" }
         ];
 var objBlogs =  [
