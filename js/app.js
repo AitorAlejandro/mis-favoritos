@@ -1,6 +1,7 @@
 var objLinkList = [
             { href: "#blogs", linkText: "Blogs" },
             { href: "#herramientas", linkText: "Herramientas" }
+            { href: "#recursos", linkText: "Recursos" }
         ];
 var objBlogs =  [
     {
@@ -213,6 +214,14 @@ var objHerramientas =  [
     }
 ];
 
+var objRecursos =  [
+    {
+        url: "http://codepen.io/",
+        linkText: "Codepen.io",
+        text: "Web app en la que poder realizar demos en HTML, CSS, y JavaScript en vivo. Admite usar cualquier preprocesador de CSS y transpilador JS. Puedes guardar tus trabajos."
+    }
+];
+
 var siteNavigation = new Vue({
     el: "#site-navigation",
     data: {
@@ -237,6 +246,16 @@ var herramientas = new Vue({
     },
     mounted: function () {
        console.log("herramientas is now rendered");
+    }
+});
+var herramientas = new Vue({
+    el: '#recursos',
+    data: {
+        sectionTitle: "Recursos",
+        aryRecursos: objRecursos
+    },
+    mounted: function () {
+       console.log("recursos is now rendered");
     }
 });
 var footer = new Vue({
