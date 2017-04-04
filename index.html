@@ -55,7 +55,7 @@
             </div>
 
             <article class="col col-4" v-for="recurso in aryRecursos">
-                <h3><a v-bind:href="recurso.url" target="_blank">{{herramienta.linkText}}</a></h3>
+                <h3><a v-bind:href="recurso.url" target="_blank">{{recurso.linkText}}</a></h3>
                 <p v-html="recurso.text"></p>
             </article>
         </section>
