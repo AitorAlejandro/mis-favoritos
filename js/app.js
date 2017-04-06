@@ -108,6 +108,11 @@ var objHerramientas =  [
         text: "Web que permite tener subidos tus repositorios git y así poder trabajar de forma colaborativa. Tiene versión Premiun con muchas mejoras. Dispone de las github-pages que te permiten desplegar webs estáticas incluso en la versión gratuita."
     },
     {
+        url: "http://codepen.io/",
+        linkText: "Codepen.io",
+        text: "Web app en la que poder realizar demos en HTML, CSS, y JavaScript en vivo. Admite usar cualquier preprocesador de CSS y transpilador JS. Puedes guardar tus trabajos."
+    },
+    {
         url: "https://www.gitignore.io/",
         linkText: "gitignore",
         text: "Tras git init suele ser habitual crear un gitignore para configurar qué se debe ignorar en el historial. Esta aplicación nos ayudará mucho en esa tarea. Hay que indicarle qué tecnologías estamos usando y gitignore hace el resto."
@@ -206,14 +211,19 @@ var objHerramientas =  [
         url: "http://makeappicon.com/",
         linkText: "MakeAppIcon",
         text: "Web que te genera a partir de una imagen toda la batería necesaria de iconos para incluir en una App Android e iOS."
+    },
+    {
+        url: "https://www.mockaroo.com/",
+        linkText: "Mockaroo",
+        text: "Mockaroo nos permite generar nuestros JSONs mocks. También admite otros formatos como CSV, SQL, XML, Excel, y más."
     }
 ];
 
 var objRecursos =  [
     {
-        url: "http://codepen.io/",
-        linkText: "Codepen.io",
-        text: "Web app en la que poder realizar demos en HTML, CSS, y JavaScript en vivo. Admite usar cualquier preprocesador de CSS y transpilador JS. Puedes guardar tus trabajos."
+        url: "https://fonts.google.com/",
+        linkText: "Google Fonts",
+        text: "Google Font nos permite utilizar web fonts de forma sencilla."
     }
 ];
 
