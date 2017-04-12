@@ -229,6 +229,11 @@ var objRecursos =  [
         url: "https://fonts.google.com/",
         linkText: "Google Fonts",
         text: "Google Font nos permite utilizar web fonts de forma sencilla."
+    },
+    {
+        url: "http://cssreference.io/",
+        linkText: "CSS reference",
+        text: "Excelente guía de referencia general CSS. La mejor hasta el momento que haya visto !!!"
     }
 ];
 
