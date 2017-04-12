@@ -113,6 +113,11 @@ var objHerramientas =  [
         text: "Web app en la que poder realizar demos en HTML, CSS, y JavaScript en vivo. Admite usar cualquier preprocesador de CSS y transpilador JS. Puedes guardar tus trabajos."
     },
     {
+        url: "http://plnkr.co/",
+        linkText: "Plukr",
+        text: "Plunkr permite realizar pruebas de concepto rápidas y se pueden compartir. Contiene plantillas para Angular, React, Kendo UI."
+    },
+    {
         url: "https://www.gitignore.io/",
         linkText: "gitignore",
         text: "Tras git init suele ser habitual crear un gitignore para configurar qué se debe ignorar en el historial. Esta aplicación nos ayudará mucho en esa tarea. Hay que indicarle qué tecnologías estamos usando y gitignore hace el resto."
