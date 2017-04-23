@@ -118,7 +118,7 @@ var objHerramientas =  [
         text: "Plunkr permite realizar pruebas de concepto rápidas y se pueden compartir. Contiene plantillas para Angular, React, Kendo UI."
     },
     {
-        url: "http://plnkr.co/",
+        url: "https://jsfiddle.net/",
         linkText: "jsfiddle",
         text: "Otro editor de código online muy al estilo de plunkr. También puedes compartir tus trabajos y/p ejemplos."
     },
@@ -239,6 +239,11 @@ var objRecursos =  [
         url: "http://cssreference.io/",
         linkText: "CSS reference",
         text: "Excelente guía de referencia general CSS. La mejor hasta el momento que haya visto !!!"
+    },      
+    {
+        url: "https://wordpress.org/themes/",
+        linkText: "Wordpress themes",
+        text: "Site oficial para los themes de Wordpress."
     }
 ];
 
