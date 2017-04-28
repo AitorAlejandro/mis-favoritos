@@ -231,6 +231,11 @@ var objHerramientas =  [
         url: "https://www.mockaroo.com/",
         linkText: "Mockaroo",
         text: "Mockaroo nos permite generar nuestros JSONs mocks. También admite otros formatos como CSV, SQL, XML, Excel, y más."
+    },
+    {
+        url: "https://www.getpostman.com/",
+        linkText: "Postman",
+        text: "Pocas cosas habrá mejor para realizar pruebas sobre una API RESTFul que esta app que se puede instalar como extensión de Chrome."
     }
 ];
 
