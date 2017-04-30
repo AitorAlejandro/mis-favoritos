@@ -137,6 +137,11 @@ var objHerramientas =  [
         linkText: "Regexr",
         text: "Nos permite crear y probar en tiempo real expresiones regulares. Muy útil cuando ya estamos desesperados de buscar algo en stackoverflow y no damos con ello."
     },
+   {
+        url: "http://caniuse.com/",
+        linkText: "Can I use ... ?",
+        text: "Antes de utilizar features de vanguardia conviene asegurarse de la compatibilidad en los navegadores. Tanto para CSS como para JavaScript. No puede faltar."
+    },
     {
         url: "http://pxtoem.com/",
         linkText: "pxtoem",
