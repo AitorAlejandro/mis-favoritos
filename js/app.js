@@ -83,12 +83,7 @@ var objBlogs =  [
         url: "http://www.kylejlarson.com/blog/ ",
         linkText: "kyle J. Larson",
         text: "Buenos consejos para el diseño web."
-    },
-    {
-        url: "http://www.naderdabit.me/#/",
-        linkText: "Nader Dabit",
-        text: "Tutoriales sobre ReactJS, Angular, NPM ."
-    },    
+    },  
     {
         url: "http://mrbool.com/",
         linkText: "Mr. Bool",
