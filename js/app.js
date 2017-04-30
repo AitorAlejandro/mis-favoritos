@@ -27,7 +27,7 @@ var objBlogs =  [
     {
         url: "https://davidwalsh.name/",
         linkText: "David Walsh Blog",
-        text: "log del gurú JavaScript David Walsh. Conviene seguirle y leer sus interesantes artículos. No solo habla de JavaScript, también aborda otras tecnologías web."
+        text: "Blog del gurú JavaScript David Walsh. Nos mantiene al día con sus interesantes artículos. No solo habla de JavaScript, también aborda otras tecnologías web."
     },
     {
         url: "http://alistapart.com/articles",
