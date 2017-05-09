@@ -254,6 +254,11 @@ var objRecursos =  [
         url: "https://wordpress.org/themes/",
         linkText: "Wordpress themes",
         text: "Site oficial para los themes de Wordpress."
+    },
+    {
+        url: "https://github.com/mzabriskie/axios",
+        linkText: "axios",
+        text: "Cliente HTTP basado en promesas para el navegador y para node.js, si solo te hace falta hacer llamadas ajax no te lies con otras cosas más pesadas."
     }
 ];
 
