@@ -236,6 +236,11 @@ var objHerramientas =  [
         url: "https://www.getpostman.com/",
         linkText: "Postman",
         text: "Pocas cosas habrá mejor para realizar pruebas sobre una API RESTFul que esta app que se puede instalar como extensión de Chrome."
+    },
+    {
+        url: "http://b64.io/",
+        linkText: "b64.io",
+        text: "Para pasar de formato imagen a cadena base64. Hay momentos para todo."
     }
 ];
 
