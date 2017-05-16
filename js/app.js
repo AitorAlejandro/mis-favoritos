@@ -241,6 +241,11 @@ var objHerramientas =  [
         url: "http://b64.io/",
         linkText: "b64.io",
         text: "Para pasar de formato imagen a cadena base64. Hay momentos para todo."
+    },
+    {
+        url: "https://cssgenerator.org/",
+        linkText: "CSS generator Tool",
+        text: "Herramienta para realizar visualmente algunas features de CSS: box-shadow, text-shadow, gradient, css cursor, border, border-radius, transform, rgba & hex color, filter, multiple columns. Completo, sí."
     }
 ];
 
