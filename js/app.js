@@ -246,6 +246,11 @@ var objHerramientas =  [
         url: "https://cssgenerator.org/",
         linkText: "CSS generator Tool",
         text: "Herramienta para realizar visualmente algunas features de CSS: box-shadow, text-shadow, gradient, css cursor, border, border-radius, transform, rgba & hex color, filter, multiple columns. Completo, sí."
+    },
+    {
+        url: "https://compressor.io/compress",
+        linkText: "Compressor.io",
+        text: "Para comprimir tus imágenes para la web. Consigue muy buenos resultados."
     }
 ];
 
