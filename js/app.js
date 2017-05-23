@@ -264,7 +264,12 @@ var objRecursos =  [
         url: "http://cssreference.io/",
         linkText: "CSS reference",
         text: "Excelente guía de referencia general CSS. La mejor hasta el momento que haya visto !!!"
-    },      
+    }, 
+    {
+        url: "http://daneden.github.io/animate.css/",
+        linkText: "Animate.css",
+        text: "Muy buena librería de animaciones CSS. Consejo: examinar el código para eliminar animaciones que no vayas a utilizar. Ojalá tuviera custom download."
+    },
     {
         url: "https://wordpress.org/themes/",
         linkText: "Wordpress themes",
