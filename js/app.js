@@ -251,6 +251,11 @@ var objHerramientas =  [
         url: "https://compressor.io/compress",
         linkText: "Compressor.io",
         text: "Para comprimir tus imágenes para la web. Consigue muy buenos resultados."
+    },
+    {
+        url: "https://specificity.keegan.st/",
+        linkText: "Calculadora de Especifidad CSS",
+        text: "Para eso momentos en el que te entran serías dudas y como eres una buena persona no quieres utilizar un !important sin justificación."
     }
 ];
 
