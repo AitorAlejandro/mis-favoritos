@@ -289,6 +289,11 @@ var objRecursos =  [
         url: "https://unsplash.com/",
         linkText: "Unsplash",
         text: "Web donde puedes encontrar imágenes y fotografías de alta calidad libres de derechos."
+    },
+    {
+        url: "https://d3js.org/",
+        linkText: "D3",
+        text: "Excelente y muy completa librería de gráficos."
     }
 ];
 
