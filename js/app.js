@@ -304,6 +304,11 @@ var objRecursos =  [
         url: "https://d3js.org/",
         linkText: "D3",
         text: "Excelente y muy completa librería de gráficos."
+    },
+    {
+        url: "https://naver.github.io/billboard.js/",
+        linkText: "Billboard.js",
+        text: "Una capa sobre la librería D3 que nos facilitará la creación de gráficas."
     }
 ];
 
