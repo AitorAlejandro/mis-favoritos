@@ -276,6 +276,11 @@ var objRecursos =  [
         text: "Muy buena librería de animaciones CSS. Consejo: examinar el código para eliminar animaciones que no vayas a utilizar. Ojalá tuviera custom download."
     },
     {
+        url: "http://animista.net/",
+        linkText: "Animista",
+        text: "Animaciones CSS prefabricadas pero que puedes parametrizar."
+    },
+    {
         url: "https://wordpress.org/themes/",
         linkText: "Wordpress themes",
         text: "Site oficial para los themes de Wordpress."
