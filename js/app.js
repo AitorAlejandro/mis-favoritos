@@ -309,6 +309,11 @@ var objRecursos =  [
         url: "https://naver.github.io/billboard.js/",
         linkText: "Billboard.js",
         text: "Una capa sobre la librería D3 que nos facilitará la creación de gráficas."
+    },
+    {
+        url: "https://limonte.github.io/sweetalert2/",
+        linkText: "SweetAlert2",
+        text: "Para ventanas modales y alertas personalizadas."
     }
 ];
 
