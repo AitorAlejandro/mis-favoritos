@@ -319,6 +319,11 @@ var objRecursos =  [
         url: "http://www.iconarchive.com/",
         linkText: "Icon Archive",
         text: "Colección de miles de iconos en varios tamaños y formatos."
+    },
+    {
+        url: "http://is.js.org/",
+        linkText: "is.js",
+        text: "Microlibería javascript muy útil para validaciones, no solo de formularios si no también de código interno."
     }
 ];
 
