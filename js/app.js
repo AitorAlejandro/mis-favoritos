@@ -314,6 +314,11 @@ var objRecursos =  [
         url: "https://limonte.github.io/sweetalert2/",
         linkText: "SweetAlert2",
         text: "Para ventanas modales y alertas personalizadas."
+    },
+   {
+        url: "http://www.iconarchive.com/",
+        linkText: "Icon Archive",
+        text: "Colección de miles de iconos en varios tamaños y formatos."
     }
 ];
 
