@@ -93,7 +93,12 @@ var objBlogs =  [
         url: "http://www.marketingenredes.com/",
         linkText: "Marketing en redes",
         text: "Sin unos buenos consejos como estos de marketing digital, no somos nadie."
-    }    
+    },
+    {
+        url: "https://developer.mozilla.org/en-US/",
+        linkText: "Mozilla Developer Network",
+        text: "No puede falta esta web de referencia. Incluyo la versión en inglés por ser la más actualizada."
+    } 
 ];
 
 var objHerramientas =  [
