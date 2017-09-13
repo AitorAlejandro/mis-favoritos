@@ -266,7 +266,13 @@ var objHerramientas =  [
         url: "https://webpack.github.io/",
         linkText: "Webpack",
         text: "Empaquetador/bundler javascript. Desde su adopción por Angular se ha vuelto muy popular para un workflow frontend eficiente."
+    },
+    {
+        url: "https://pugjs.org/api/getting-started.html",
+        linkText: "Pug",
+        text: "Para realizar plantillaje y renderizado de vistas html. (Anteriormente conocido como Jade)"
     }
+            
 ];
 
 var objRecursos =  [
