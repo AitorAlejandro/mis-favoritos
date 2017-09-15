@@ -131,7 +131,12 @@ var objHerramientas =  [
         url: "http://web-dev.tools/",
         linkText: "Web Dev Tools",
         text: "Tres herramientas que te permiten generar tu propio framework CSS. Son, como si se tratase de los 3 mosqueteros, Gridifier, Typographier y Modulifier. Ideales para proyectos donde quieras ir con el menor peso posible."
-    },   
+    },
+    {
+        url: "http://patternlab.io/",
+        linkText: "patternlab.io",
+        text: "Una herramienta para generar una web estática que sirve para documentar un design system. Filosofía Atomic Design."
+    },
     {
         url: "https://www.draw.io/",
         linkText: "draw.io",
