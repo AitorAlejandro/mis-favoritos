@@ -114,7 +114,7 @@ var objHerramientas =  [
     },
     {
         url: "http://plnkr.co/",
-        linkText: "Plukr",
+        linkText: "Plunkr",
         text: "Plunkr permite realizar pruebas de concepto rápidas y se pueden compartir. Contiene plantillas para Angular, React, Kendo UI."
     },
     {
