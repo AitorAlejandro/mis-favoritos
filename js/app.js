@@ -281,8 +281,12 @@ var objHerramientas =  [
         url: "https://mozilla.github.io/nunjucks/templating.html",
         linkText: "Nunjucks",
         text: "Para realizar plantillaje y renderizado de vistas html muy similar a Jade. Este proyecto pertenece a Mozilla y es el que utiliza la BBC en su website."
-    }
-            
+    },
+    {
+        url: "https://chrome.google.com/webstore/detail/dataslayer/ikbablmmjldhamhcldjjigniffkkjgpo",
+        linkText: "datasLayer",
+        text: "Extensión de Chrome que nos permite visualizar los envíos en el dataLayer de Google Analytics."
+    }      
 ];
 
 var objRecursos =  [
