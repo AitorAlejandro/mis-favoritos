@@ -286,7 +286,12 @@ var objHerramientas =  [
         url: "https://chrome.google.com/webstore/detail/dataslayer/ikbablmmjldhamhcldjjigniffkkjgpo",
         linkText: "datasLayer",
         text: "Extensión de Chrome que nos permite visualizar los envíos en el dataLayer de Google Analytics."
-    }      
+    },
+    {
+        url: "http://editorconfig.org/",
+        linkText: "EditorConfig",
+        text: "Con un pequeño ficherito conseguimos evitar muchos problemas que se dan en grandes equipos de desarrollo con un control de versiones por el medio."
+    } 
 ];
 
 var objRecursos =  [
