@@ -291,6 +291,11 @@ var objHerramientas =  [
         url: "http://editorconfig.org/",
         linkText: "EditorConfig",
         text: "Con un pequeño ficherito conseguimos evitar muchos problemas que se dan en grandes equipos de desarrollo con un control de versiones por el medio."
+    },
+    {
+        url: "https://wireframe.cc/",
+        linkText: "wireframe.cc",
+        text: "Herramienta de diseño con la que se puede generar o compartir un wireframe."
     } 
 ];
 
