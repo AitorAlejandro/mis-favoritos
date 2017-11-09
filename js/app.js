@@ -364,6 +364,11 @@ var objRecursos =  [
         url: "http://is.js.org/",
         linkText: "is.js",
         text: "Microlibería javascript muy útil para validaciones, no solo de formularios si no también de código interno."
+    },
+    {
+        url: "http://www.sabinanore.com/design/html-special-symbols/",
+        linkText: "Símbolos HTML",
+        text: "A veces es bueno plantearse si realmente se necesita una iconografía cuando en HTML disponemos de una amplia variedad de iconos."
     }
 ];
 
