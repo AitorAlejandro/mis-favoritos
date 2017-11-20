@@ -296,7 +296,12 @@ var objHerramientas =  [
         url: "https://wireframe.cc/",
         linkText: "wireframe.cc",
         text: "Herramienta de diseño con la que se puede generar o compartir un wireframe."
-    } 
+    },
+    {
+        url: "https://gojs.net/latest/index.html",
+        linkText: "goJS",
+        text: "Diagramas de todo tipo en JavaScript: flowchart, orgchart, statechart, Gantt chart, Euler chart, Entity relationship, UML, class hierarchy, mindmap, decision tree, ..."
+    }
 ];
 
 var objRecursos =  [
