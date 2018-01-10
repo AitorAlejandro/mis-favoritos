@@ -301,6 +301,11 @@ var objHerramientas =  [
         url: "https://gojs.net/latest/index.html",
         linkText: "goJS",
         text: "Diagramas de todo tipo en JavaScript: flowchart, orgchart, statechart, Gantt chart, Euler chart, Entity relationship, UML, class hierarchy, mindmap, decision tree, ..."
+    },
+    {
+        url: "https://localforage.github.io/localForage/",
+        linkText: "Localforage",
+        text: "Con Localforage se puede utilizar, mediante una API amigable al estilo del localStorage, almacenamiento web como IndexedDB y WebSQL."
     }
 ];
 
