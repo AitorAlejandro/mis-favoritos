@@ -306,6 +306,11 @@ var objHerramientas =  [
         url: "https://localforage.github.io/localForage/",
         linkText: "Localforage",
         text: "Con Localforage se puede utilizar, mediante una API amigable al estilo del localStorage, almacenamiento web como IndexedDB y WebSQL."
+    },
+    {
+        url: "https://app-manifest.firebaseapp.com/",
+        linkText: "Web App Manifest Generator",
+        text: "Rellena un sencillo formulario y voilà, ya tendrías tu manifest.json. Incluyendo una imagen de 512x512 te genera también los iconos necesarios."
     }
 ];
 
