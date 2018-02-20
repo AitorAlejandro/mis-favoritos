@@ -311,6 +311,11 @@ var objHerramientas =  [
         url: "https://app-manifest.firebaseapp.com/",
         linkText: "Web App Manifest Generator",
         text: "Rellena un sencillo formulario y voilà, ya tendrías tu manifest.json. Incluyendo una imagen de 512x512 te genera también los iconos necesarios."
+    },
+    {
+        url: "https://bennettfeely.com/clippy/",
+        linkText: "Clippy",
+        text: "Te permite realizar formas en CSS de forma visual y genera el código necesario. Cuidado con la compatibilidad de navegadores."
     }
 ];
 
