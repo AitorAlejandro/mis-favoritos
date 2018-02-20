@@ -268,7 +268,7 @@ var objHerramientas =  [
         text: "Para eso momentos en el que te entran serías dudas y como eres una buena persona no quieres utilizar un !important sin justificación."
     },
     {
-        url: "https://webpack.github.io/",
+        url: "https://webpack.js.org/",
         linkText: "Webpack",
         text: "Empaquetador/bundler javascript. Desde su adopción por Angular se ha vuelto muy popular para un workflow frontend eficiente."
     },
