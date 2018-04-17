@@ -316,6 +316,11 @@ var objHerramientas =  [
         url: "https://bennettfeely.com/clippy/",
         linkText: "Clippy",
         text: "Te permite realizar formas en CSS de forma visual y genera el código necesario. Cuidado con la compatibilidad de navegadores."
+    },
+    {
+        url: "https://inliner.cm/",
+        linkText: "Inliner",
+        text: "Herramienta para pasar los estilos css a css en línea. Muy útil a la hora de diseñar HTML Email."
     }
 ];
 
