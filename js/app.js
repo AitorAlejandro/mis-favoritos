@@ -321,6 +321,11 @@ var objHerramientas =  [
         url: "https://inliner.cm/",
         linkText: "Inliner",
         text: "Herramienta para pasar los estilos css a css en línea. Muy útil a la hora de diseñar HTML Email."
+    },
+    {
+        url: "https://developers.google.com/web/tools/workbox/",
+        linkText: "Workbox",
+        text: "Google nos proporciona una herramienta para establecer la estrategía de cacheo de una PWA."
     }
 ];
 
