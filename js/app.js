@@ -238,6 +238,11 @@ var objHerramientas =  [
         text: "Web que te genera a partir de una imagen toda la batería necesaria de iconos para incluir en una App Android e iOS."
     },
     {
+        url: "https://www.favicon-generator.org/",
+        linkText: "Favicon & App Icon Generator",
+        text: "Genera todas las imágenes y código necesario para incluir tus iconos de aplicación."
+    },
+    {
         url: "https://www.mockaroo.com/",
         linkText: "Mockaroo",
         text: "Mockaroo nos permite generar nuestros JSONs mocks. También admite otros formatos como CSV, SQL, XML, Excel, y más."
