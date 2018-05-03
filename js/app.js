@@ -265,7 +265,7 @@ var objHerramientas =  [
     {
         url: "https://specificity.keegan.st/",
         linkText: "Calculadora de Especifidad CSS",
-        text: "Para eso momentos en el que te entran serías dudas y como eres una buena persona no quieres utilizar un !important sin justificación."
+        text: "Para esos momentos en el que te entran serías dudas y como eres una buena persona no quieres utilizar un !important sin justificación."
     },
     {
         url: "https://webpack.js.org/",
