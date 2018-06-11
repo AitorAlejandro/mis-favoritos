@@ -396,9 +396,9 @@ var objRecursos =  [
         text: "A veces es bueno plantearse si realmente se necesita una iconografía cuando en HTML disponemos de una amplia variedad de iconos."
     },
     {
-        url: "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet",
+        url: "https://guides.github.com/features/mastering-markdown/",
         linkText: "Markdown Cheatsheet",
-        text: "Para tener a mano una chuleta cuando estamos editando un Markdown."
+        text: "Para tener a mano una chuleta cuando estamos editando un Markdown. La guía oficial de Github."
     }
 ];
 
