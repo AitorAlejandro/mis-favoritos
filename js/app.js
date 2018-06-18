@@ -438,7 +438,7 @@ var objRecursos =  [
     {
         url: "https://mattboldt.com/demos/typed-js/",
         linkText: "Typed.js",
-        text: "Dejar crear la típica animación de mostrar texto como si alguien estuviera escribiéndolo en tiempo real, puede modificar la velocidad de escritura."
+        text: "Deja crear la típica animación de mostrar texto como si alguien estuviera escribiéndolo en tiempo real, puedes modificar la velocidad de escritura."
     }
 ];
 
