@@ -414,6 +414,11 @@ var objRecursos =  [
         url: "http://mathjs.org/",
         linkText: "Moment",
         text: "Librería para manipular, convertir, validar y formatear fechas. Casi una obligación si en tu proyecto las fechas tienen cierta importancia."
+    },
+    {
+        url: "https://sugarjs.com/",
+        linkText: "Sugar",
+        text: "Una colección muy interesante de utilidades comunes que se realizar a la hora de manipular objetos en JavaScript."
     }
 ];
 
