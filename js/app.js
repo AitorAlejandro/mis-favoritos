@@ -424,6 +424,11 @@ var objRecursos =  [
         url: "https://threejs.org/",
         linkText: "Three",
         text: "Librería para crear animaciones 3D en el navegador, usando WebGL de una manera intuitiva."
+    },
+    {
+        url: "http://animejs.com/",
+        linkText: "Anime",
+        text: "Anime es una librería JavaScript de animación que trabaja con propiedades CSS, transforms, SVG. Te deja encadenar multiples propiedades de animación, sincronizar múltiples instancias, y crear timelines."
     }
 ];
 
