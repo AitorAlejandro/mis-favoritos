@@ -419,6 +419,11 @@ var objRecursos =  [
         url: "https://sugarjs.com/",
         linkText: "Sugar",
         text: "Una colección muy interesante de utilidades comunes que se realizar a la hora de manipular objetos en JavaScript."
+    },
+    {
+        url: "https://threejs.org/",
+        linkText: "Three",
+        text: "Librería para crear animaciones 3D en el navegador, usando WebGL de una manera intuitiva."
     }
 ];
 
