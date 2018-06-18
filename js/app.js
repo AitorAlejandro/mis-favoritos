@@ -404,6 +404,11 @@ var objRecursos =  [
         url: "https://ramdajs.com/",
         linkText: "Ramda",
         text: "Librería diseñada para programación funcional, haciendo fácil crear pipelines que no mutan los datos."
+    },
+    {
+        url: "http://mathjs.org/",
+        linkText: "MathJS",
+        text: "Una prolongación del objeto built-in Math de JavaScript."
     }
 ];
 
