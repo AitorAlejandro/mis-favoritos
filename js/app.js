@@ -399,6 +399,11 @@ var objRecursos =  [
         url: "https://guides.github.com/features/mastering-markdown/",
         linkText: "Markdown Cheatsheet",
         text: "Para tener a mano una chuleta cuando estamos editando un Markdown. La guía oficial de Github."
+    },
+    {
+        url: "https://ramdajs.com/",
+        linkText: "Ramda",
+        text: "Librería diseñada para programación funcional, haciendo fácil crear pipelines que no mutan los datos."
     }
 ];
 
