@@ -429,6 +429,11 @@ var objRecursos =  [
         url: "http://animejs.com/",
         linkText: "Anime",
         text: "Anime es una librería JavaScript de animación que trabaja con propiedades CSS, transforms, SVG. Te deja encadenar multiples propiedades de animación, sincronizar múltiples instancias, y crear timelines."
+    },
+    {
+        url: "https://scrollrevealjs.org/",
+        linkText: "ScrollReveal",
+        text: "Con cero dependencias, esta librería proporciona animaciones basadas en scroll. Gran cantidad de efectos y además puedes crear los tuyos propios."
     }
 ];
 
