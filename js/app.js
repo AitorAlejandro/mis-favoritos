@@ -434,6 +434,11 @@ var objRecursos =  [
         url: "https://scrollrevealjs.org/",
         linkText: "ScrollReveal",
         text: "Con cero dependencias, esta librería proporciona animaciones basadas en scroll. Gran cantidad de efectos y además puedes crear los tuyos propios."
+    },
+    {
+        url: "https://mattboldt.com/demos/typed-js/",
+        linkText: "Typed.js",
+        text: "Dejar crear la típica animación de mostrar texto como si alguien estuviera escribiéndolo en tiempo real, puede modificar la velocidad de escritura."
     }
 ];
 
