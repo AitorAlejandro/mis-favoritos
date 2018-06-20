@@ -321,6 +321,11 @@ var objHerramientas =  [
         url: "https://developers.google.com/web/tools/workbox/",
         linkText: "Workbox",
         text: "Google nos proporciona una herramienta para establecer la estrategía de cacheo de una PWA."
+    },
+    {
+        url: "Easing Gradients",
+        linkText: "https://larsenwork.com/easing-gradients/",
+        text: "Los gradientes lineales tienen a menudo cortes abruptos. Con esta herramienta podemos controlar esto con el color mix usando funciones easing de forma visual."
     }
 ];
 
