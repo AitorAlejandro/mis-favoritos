@@ -326,7 +326,12 @@ var objHerramientas =  [
         url: "Easing Gradients",
         linkText: "https://larsenwork.com/easing-gradients/",
         text: "Los gradientes lineales tienen a menudo cortes abruptos. Con esta herramienta podemos controlar esto con el color mix usando funciones easing de forma visual."
-    }
+    },
+    {
+        url: "https://www.pwabuilder.com/",
+        linkText: "PWA Builder",
+        text: "Generador de Manifest, Service Worker y descarga de boilerplate inicial para tu Progressive Web App."
+    },
 ];
 
 var objRecursos =  [
